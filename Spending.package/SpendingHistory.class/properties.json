@@ -1,0 +1,15 @@
+{
+	"category" : "Spending",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"CashOnHand",
+		"expenditures" ],
+	"name" : "SpendingHistory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
